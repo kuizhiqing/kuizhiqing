@@ -1,7 +1,25 @@
-### Hi there, I'm kuizhiqing.
+# 👋 Hi, I’m kuizhiqing
 
+### 🏢 Senior Software Engineer at Tencent
+Focusing on building reliable and scalable infrastructure for **Large Language Models**.<br/>
+Former work in **Alibaba Damo Group** and **Baidu PaddlePaddle Group**. 
 
-# Tech Stack
+### 🎓 PhD in Mathematics
+Centrale Marseille — **wavelet specialist**.
+
+### 💻 Large-scale LLM Infrastructure & Frameworks
+Focus on **distributed training** and **performance optimization**.<br/>
+Contributions to **PyTorch** and **PaddlePaddle**.
+
+### ☁️ Cloud Native Infrastructure & System Design
+Active in **Kubernetes** and **Kubeflow** communities.
+
+### 🌐 Languages
+English & French speaker, **Chinese native**.
+
+---
+
+### 🔧 Skills
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -9,7 +27,7 @@
 ![Shell](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
 
 <!--
 # GitHub Stats :
