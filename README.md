@@ -19,6 +19,28 @@ English & French speaker, **Chinese native**.
 
 ---
 
+## 📈 Career Journey & Stock Performance Analysis
+
+### 🏢 Alibaba (July 2020 - December 2020)
+**Role**: Software Engineer at Alibaba Damo Group  
+**Stock Performance**: +16.47% during tenure
+
+![Alibaba Career Period](assets/BABA_stock_chart_2020_2021.svg)
+
+### 🔍 Baidu (December 2020 - July 2023)
+**Role**: Engineer at Baidu PaddlePaddle Group  
+**Stock Performance**: -23.03% during tenure
+
+![Baidu Career Period](assets/BIDU_career_chart_2020_2024.svg)
+
+### 🚀 Tencent (July 2023 - Present)
+**Role**: Senior Software Engineer focusing on LLM Infrastructure  
+**Stock Performance**: +74.52% during ongoing tenure
+
+![Tencent Career Period](assets/Tencent_career_chart_2023_2025.svg)
+
+---
+
 ### 🔧 Skills
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
