@@ -19,6 +19,19 @@ English & French speaker, **Chinese native**.
 
 ---
 
+## 📈 Career Journey
+
+### 🏢 Alibaba
+![Alibaba Career Period](assets/BABA_stock_chart_2020_2021.svg)
+
+### 🔍 Baidu
+![Baidu Career Period](assets/BIDU_career_chart_2020_2024.svg)
+
+### 🚀 Tencent
+![Tencent Career Period](assets/Tencent_career_chart_2023_2025.svg)
+
+---
+
 ### 🔧 Skills
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
