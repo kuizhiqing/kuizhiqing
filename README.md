@@ -1,21 +1,21 @@
 # 👋 Hi, I’m kuizhiqing
 
 ### 🏢 Senior Software Engineer at Tencent
-Focusing on building reliable and scalable infrastructure for **Large Language Models**.<br/>
-Former work in **Alibaba Damo Group** and **Baidu PaddlePaddle Group**. 
+Specializing in building reliable and scalable infrastructure for **Large Language Models**.  
+Previously affiliated with **Alibaba DAMO Academy** and **Baidu PaddlePaddle Team**.
 
 ### 🎓 PhD in Mathematics
 Centrale Marseille — **wavelet specialist**.
 
 ### 💻 Large-scale LLM Infrastructure & Frameworks
-Focus on **distributed training** and **performance optimization**.<br/>
-Contributions to **PyTorch** and **PaddlePaddle**.
+Specializing in **distributed training systems** and **performance optimization**.  
+Contributor to **PyTorch** and **PaddlePaddle** frameworks.
 
 ### ☁️ Cloud Native Infrastructure & System Design
-Active in **Kubernetes** and **Kubeflow** communities.
+Active contributor to **Kubernetes** and **Kubeflow** communities.
 
 ### 🌐 Languages
-English & French speaker, **Chinese native**.
+Fluent in **English** and **French**, with **native proficiency in Chinese**.
 
 ---
 
